@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @leeeryboy
-- 👀 I’m interested in backend
+- 👀 I’m interested in server development
 - 🌱 I’m currently learning Kotlin & Spring Boot
 - 📫 How to reach me: indiv0227@snu.ac.kr
 
