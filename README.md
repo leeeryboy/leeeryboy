@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @leeeryboy
-- 👀 I’m interested in server development
-- 🌱 I’m currently learning Kotlin & Spring Boot
-- 📫 How to reach me: indiv0227@snu.ac.kr
+- 👀 I’m interested in Back-End and ML
+- 🌱 I’m currently learning Scalable High-Performance Computing, Deep Neural Networks
+- 📫 How to reach me: leeeryboy@gmail.com
 
 <!---
 leeeryboy/leeeryboy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
