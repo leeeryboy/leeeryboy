@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @leeeryboy
-- 👀 I’m interested in Back-End and ML
+- 👀 I’m interested in Back-End and ML!
 - 🌱 I’m currently learning Scalable High-Performance Computing, Deep Neural Networks, etc.
 - 📫 How to reach me: leeeryboy@gmail.com
 
